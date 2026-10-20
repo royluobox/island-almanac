@@ -1,0 +1,15 @@
+# 构建产物
+bin/
+obj/
+preview/
+dist/
+*.lwp
+
+# 本地日志
+*.log
+
+# 编辑器 / 系统
+.vs/
+.idea/
+*.user
+Thumbs.db
